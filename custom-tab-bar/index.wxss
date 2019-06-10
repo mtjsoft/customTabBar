@@ -43,7 +43,6 @@
   height: 80rpx;
   position: absolute;
   top: 5rpx;
-  background-color: #fff;
   border-radius: 50%;
-  padding: 6rpx;
+  border: 6rpx solid #fff;
 }
